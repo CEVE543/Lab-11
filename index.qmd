@@ -1,8 +1,8 @@
 ---
-title: "Lab 1"
-subtitle: "Julia Setup & Hello World"
+title: "Lab 11"
+subtitle: "Ensemble Generation and Analysis"
 author: CEVE 543 Fall 2025
-date: "2025-08-29"
+date: "2025-11-12"
 
 engine: julia
 
@@ -32,4 +32,10 @@ code-overflow: wrap
 code-line-numbers: false
 code-block-font-size: "0.85em"
 ---
+
+## Topics
+
+- Drawing from MCMC posteriors
+- 100-member ensemble runs
+- Uncertainty visualization
 
