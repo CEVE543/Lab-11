@@ -1,8 +1,16 @@
 ---
-title: "Lab 11"
-subtitle: "Ensemble Generation and Analysis"
+title: "Lab 11: HMM Weather Generation"
+subtitle: "Training HMM on historical data, Synthetic weather generation, Model validation approaches"
 author: CEVE 543 Fall 2025
-date: "2025-11-12"
+date: "2025-11-07"
+type: "lab"
+module: 2
+week: 11
+objectives:
+  - "Train Hidden Markov Models on historical weather data"
+  - "Generate synthetic weather sequences for hydrological modeling"
+  - "Validate weather generation models against observations"
+ps_connection: "Builds weather generation tools for PS2 Task 5"
 
 engine: julia
 
@@ -12,7 +20,7 @@ format:
     toc-depth: 2
     code-block-bg: "#f8f8f8"
     code-block-border-left: "#e1e4e5"
-    theme: default
+    theme: cosmo
     number-sections: true
     fig-format: svg
   typst:
@@ -35,7 +43,7 @@ code-block-font-size: "0.85em"
 
 ## Topics
 
-- Drawing from MCMC posteriors
-- 100-member ensemble runs
-- Uncertainty visualization
+- Training HMM on historical data
+- Synthetic weather generation
+- Model validation approaches
 
