@@ -42,10 +42,33 @@ code-line-numbers: false
 code-block-font-size: "0.85em"
 ---
 
-## Topics
+## Objectives
 
-- Neural network implementation for bias correction
-- Supervised learning approaches to downscaling
-- Comparison with traditional quantile mapping
-- Practical ML implementation and validation
+1. Implement neural network approaches to bias correction
+1. Apply supervised learning to weather model downscaling
+1. Compare ML methods to traditional quantile mapping
+1. Understand practical limitations and computational requirements
+
+## Before
+
+::: {.callout-important}
+## Instructions
+
+Do this before the lab date so that lab itself can go more smoothly.
+:::
+
+## Background and Reading
+
+<!-- Content will be added here -->
+
+## Tasks
+
+Modify the code section below to address the following tasks.
+
+1. Implement neural network approaches for climate model bias correction
+1. Apply supervised learning methods to weather model downscaling problems
+1. Compare ML approaches with traditional quantile mapping methods
+1. Assess practical limitations, computational requirements, and performance trade-offs
+
+## Code
 
