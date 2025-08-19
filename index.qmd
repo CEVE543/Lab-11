@@ -1,16 +1,17 @@
 ---
-title: "Lab 11: HMM Weather Generation"
-subtitle: "Training HMM on historical data, Synthetic weather generation, Model validation approaches"
+title: "Lab 11: ML Downscaling Implementation"
+subtitle: "Neural networks for bias correction, supervised learning approaches, practical ML implementation"
 author: CEVE 543 Fall 2025
-date: "2025-11-07"
+date: "2025-11-14"
 type: "lab"
 module: 2
-week: 11
+week: 13
 objectives:
-  - "Train Hidden Markov Models on historical weather data"
-  - "Generate synthetic weather sequences for hydrological modeling"
-  - "Validate weather generation models against observations"
-ps_connection: "Builds weather generation tools for PS2 Task 5"
+  - "Implement neural network approaches to bias correction"
+  - "Apply supervised learning to weather model downscaling"
+  - "Compare ML methods to traditional quantile mapping"
+  - "Understand practical limitations and computational requirements"
+ps_connection: "Provides advanced ML tools for enhanced bias correction and downscaling (optional extension beyond core PS2 requirements)"
 
 engine: julia
 
@@ -43,7 +44,8 @@ code-block-font-size: "0.85em"
 
 ## Topics
 
-- Training HMM on historical data
-- Synthetic weather generation
-- Model validation approaches
+- Neural network implementation for bias correction
+- Supervised learning approaches to downscaling
+- Comparison with traditional quantile mapping
+- Practical ML implementation and validation
 

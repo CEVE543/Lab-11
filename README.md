@@ -1,29 +1,30 @@
-# Lab 11: HMM Weather Generation
+# Lab 11: ML Downscaling Implementation
 
-**Date:** November 7, 2025 | **Module:** 2 | **Week:** 11
+**Date:** November 14, 2025 | **Module:** 2 | **Week:** 13
 
 ## Overview
 
-This lab introduces students to stochastic weather generation using Hidden Markov Models (HMMs). Students will learn to train HMMs on historical weather data, generate synthetic weather sequences for hydrological modeling, and validate the performance of weather generation models against observations.
+This lab introduces practical machine learning implementation for climate bias correction and downscaling. Students will implement neural network approaches, apply supervised learning to weather model data, and compare ML methods to traditional statistical approaches.
 
 ## Topics Covered
 
-- Training HMM on historical weather data
-- Synthetic weather generation techniques
-- Model validation approaches for weather generators
-- Statistical properties preservation in synthetic data
-- Applications of weather generation in hydrological modeling
+- Neural network implementation for bias correction
+- Supervised learning approaches to weather model downscaling
+- Comparison with traditional quantile mapping methods
+- Practical ML implementation challenges and computational requirements
+- Transfer learning and domain adaptation concepts
+- Evaluation of ML vs. traditional bias correction
 
 ## Objectives
 
-- Train Hidden Markov Models on historical weather data
-- Generate synthetic weather sequences for hydrological modeling
-- Validate weather generation models against observations
-- Understand the applications and limitations of stochastic weather generation
+- Implement neural network approaches to bias correction
+- Apply supervised learning to weather model downscaling
+- Compare ML methods to traditional quantile mapping
+- Understand practical limitations and computational requirements
 
 ## Connection to Problem Sets
 
-This lab builds the weather generation tools that students will use for PS2 Task 5, enabling the creation of synthetic weather ensembles for comprehensive uncertainty analysis in hydrological impact studies.
+This lab provides advanced ML tools for enhanced bias correction and downscaling (optional extension beyond core PS2 requirements), allowing students to explore state-of-the-art methods while completing their problem set with traditional approaches.
 
 ---
 
