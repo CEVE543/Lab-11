@@ -1,5 +1,5 @@
 ---
-title: "Lab 11: ML Downscaling Implementation"
+title: "CEVE 543 Fall 2025 Lab 11: ML Downscaling Implementation"
 subtitle: "Neural networks for bias correction, supervised learning approaches, practical ML implementation"
 author: CEVE 543 Fall 2025
 date: "2025-11-14"
